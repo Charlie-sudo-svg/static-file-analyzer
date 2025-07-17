@@ -1,0 +1,12 @@
+[package]
+name = "learningproject"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+walkdir = "2"
+infer = "0.15"
+sha2 = "0.10"
+chrono = "0.4"
+hex = "0.4"
+
